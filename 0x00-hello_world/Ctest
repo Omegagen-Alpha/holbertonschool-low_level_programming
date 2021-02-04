@@ -1,0 +1,7 @@
+#inlude <stdio.h>
+
+int main(void)
+{
+	printf("Bruh it works\n");
+	return(0);
+}
