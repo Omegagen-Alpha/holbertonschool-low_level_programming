@@ -2,8 +2,11 @@
 #include <stdlib.h>
 #include <time.h>
 /* more headers goes there */
-/*main - function main will assign a random number to*/
-/*the variable n each time it is executed*/
+/**
+ * main - function main balblabla
+ *
+ * Return: return balblabva
+*/
 /* betty style doc for function main goes there */
 
 int main(void)
