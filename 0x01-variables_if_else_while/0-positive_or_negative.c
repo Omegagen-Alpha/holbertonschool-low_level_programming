@@ -2,7 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 /* more headers goes there */
-/* Main Function  will assign a random number to the variable n each time it is executed.*/
+/* Main Function  will assign a random number to
+**the variable n each time it is executed.*/
 /* betty style doc for function main goes there */
 
 int main(void)
@@ -14,15 +15,15 @@ int main(void)
 
 	if (n > 0)
 	{
-		printf("%d is positive\n",n);
-	}	
+		printf("%d is positive\n", n);
+	}
 	else if (n == 0)
 	{
-		printf("%d is zero\n",n);
+		printf("%d is zero\n", n);
 	}
 	else if (n < 0)
 	{
-		printf("%d is negative\n",n);	
+		printf("%d is negative\n", n);
 	}
 	/* your code goes there */
 	return (0);
