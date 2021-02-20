@@ -11,4 +11,9 @@ int _putchar(char c)
 {
 	return (write(1, &c, 1));
 }
+
 int _isupper(int c);
+
+void print_diagonal(int n);
+
+void reset_to_98(int *n);
