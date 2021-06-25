@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /**
  * main - function main balblabla
  *
@@ -11,7 +10,8 @@ int main(void)
 	char x;
 
 	x = 'a';
-	for(x = 'a'; x <= 'z'; x++)
+
+	for (x = 'a'; x <= 'z'; x++)
 	{
 		putchar(x);
 	}
