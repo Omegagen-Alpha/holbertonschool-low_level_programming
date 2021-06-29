@@ -1,5 +1,10 @@
-#include <stdio.h> 
+#include <stdio.h>
 #include "holberton.h"
+/**
+* main - function main balblabla
+*
+* Return: return balblabva
+*/
 int main(void)
 {
 	char h;
