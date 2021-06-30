@@ -8,28 +8,15 @@
 
 int main(void)
 {
-	char x;
+	int x;
 
-	x = 'a';
+	x = 0;
 
-	while (x <= 'z')
+	for (x = 0; x <= 10; x++)
 	{
-		if (x == 'e')
-		{
-			x++;
-		}
-		else if (x == 'q')
-		{
-			x++;
-		}
-		else
-		{
-			putchar(x);
-			x++;
-		}
+		putchar(x);
 	}
 	putchar('\n');
 
 	return (0);
 }
-
