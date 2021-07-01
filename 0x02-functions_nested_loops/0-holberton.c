@@ -1,4 +1,3 @@
-#include <stdio.h>
 /**
 * main - function main balblabla
 *
