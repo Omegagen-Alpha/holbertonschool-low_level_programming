@@ -1,3 +1,5 @@
+#include <stdio.h>
+#include "holberton.h"
 /**
 * main - function main balblabla
 *
