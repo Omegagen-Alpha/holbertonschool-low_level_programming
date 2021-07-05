@@ -13,6 +13,6 @@
 
 #include <stdio.h>
 
-void _putchar(int i);
+#include "_putchar.c"
 
 #endif /* HOLBERTON_H */
