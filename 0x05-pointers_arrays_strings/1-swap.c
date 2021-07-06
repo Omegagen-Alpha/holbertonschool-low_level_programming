@@ -1,13 +1,17 @@
 #include "holberton.h"
 #include <stdio.h>
-Void swap_int(int*a, int*b)
+
 /**
  * main - check the code for Holberton School students.
  *
  * Return: Always 0.
  */
-int main(void)
+Void swap_int(int *a, int *b)
 {
-q   
- return (0)
+	int c;
+	int *c;
+
+	*c = b
+	*b = a
+	*a = c
 }
