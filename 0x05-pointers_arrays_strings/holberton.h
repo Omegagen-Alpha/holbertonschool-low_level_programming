@@ -14,5 +14,5 @@
 #include <stdio.h>
 
 #include "_putchar.c"
-
-#endif /* HOLBERTON_H */
+void reset_to_98(int *n);
+eendif /* HOLBERTON_H */

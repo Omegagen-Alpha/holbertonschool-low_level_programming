@@ -9,10 +9,11 @@
 
 int main(void)
 {
-	char ch;
+	int *n = &n;
+	n = 98;
 
-	ch = '1';
-	_putchar(ch);
-	_putchar('\n');
+	
+	
+	
 	return (0);
 }
