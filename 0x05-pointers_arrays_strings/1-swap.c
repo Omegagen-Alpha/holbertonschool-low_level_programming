@@ -6,12 +6,14 @@
  *
  * Return: Always 0.
  */
-Void swap_int(int *a, int *b)
+void swap_int(int *a, int *b)
 {
 	int c;
-	int *c;
+	int *d;
 
-	*c = b
-	*b = a
-	*a = c
+	d = &c;
+	
+	*d = *a;
+	*a = *b;
+	*b = *d;
 }
