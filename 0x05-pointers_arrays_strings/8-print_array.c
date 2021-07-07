@@ -2,13 +2,16 @@
 #include <stdio.h>
 /**
  * print_array - function prints out an array
- *
+ * @a: pointer
+ * @n: lenth f ponter
  */
 
 void print_array(int *a, int n)
 {
 	int i;
+
 	i = 0;
+
 	while (i <= (n - 1))
 	{
 		printf("%d", *a);
